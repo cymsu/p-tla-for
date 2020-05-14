@@ -1,0 +1,2 @@
+# wybuch
+Odliczanie
